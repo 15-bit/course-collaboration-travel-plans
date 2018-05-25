@@ -59,10 +59,14 @@ h2 {
     background-color: #800000;
 }
 
-barcelona {
+#barcelona {
 	background-color: #808800;
 }
 
-florida {
+#florida {
 	background-color: #4020e1;
+}
+
+#scotland {
+    background-color: #111111;
 }
